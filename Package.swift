@@ -1,4 +1,4 @@
-// swift-tools-version: 5.9
+// swift-tools-version: 5.6
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
@@ -6,9 +6,9 @@ import PackageDescription
 let package = Package(
     name: "SVGImageSwiftUI",
     platforms: [
-        .macOS(.v13),
-        .iOS(.v16),
-        .visionOS(.v1)
+        .macOS(.v10_13),
+        .iOS(.v13),
+        .tvOS(.v13)
     ],
     products: [
         .library(
