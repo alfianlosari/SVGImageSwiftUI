@@ -1,6 +1,7 @@
 # SVGImageSwiftUI
 
 A SwiftUI wrapper over [SVGKit](https://github.com/SVGKit/SVGKit) to load SVG image over URL.
+![image](https://i.ibb.co/Qjf9XYn/Simulator-Screenshot-Apple-Vision-Pro-2023-06-24-at-15-13-54.png)
 
 ## Features
 
