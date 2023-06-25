@@ -6,7 +6,6 @@ import PackageDescription
 let package = Package(
     name: "SVGImageSwiftUI",
     platforms: [
-        .macOS(.v10_13),
         .iOS(.v13),
         .tvOS(.v13)
     ],
